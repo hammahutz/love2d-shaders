@@ -1,0 +1,6 @@
+[submodule "library/lurker"]
+	path = library/lurker
+	url = https://github.com/hammahutz/lurker.git
+[submodule "library/lume"]
+	path = library/lume
+	url = https://github.com/hammahutz/lume.git
